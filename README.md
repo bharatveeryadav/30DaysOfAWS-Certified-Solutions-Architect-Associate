@@ -3,9 +3,11 @@
                                           
                                           # 30DaysOfAWS-Certified-Solutions-Architect-Associate
                                           
-<img src="./Days/Image/?raw=true" alt="90DaysOfDevOps Logo" width="50%" height="50%" />
+
+<p align="center">
+ <img src="./Days/Image/AWS-Certified-Solutions-Architect-Associate.png?raw=true" alt="90DaysOfDevOps Logo" width="50%" height="50%" />
+</p>
                                           
-<img  src="./Days/Images/AWS-Certified-Solutions-Architect-Associate.png" />
                                           
 In this 30 Days AWS seiries we learn about AWS Certified Solutions Architect - Associate
 
