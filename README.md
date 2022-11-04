@@ -41,3 +41,16 @@ In this 30 Days AWS seiries we learn about AWS Certified Solutions Architect - A
 13. <a href="#cloudtrail">CloudTrail</a>
 
 14. <a href="#elastic-file-system-efs">Elastic File System (EFS)</a>
+15. <a href="#amazon-fsx-for-windows">Amazon FSx for Windows</a>
+
+16. <a href="#amazon-fsx-for-lustre">Amazon FSx for Lustre</a>
+
+17. <a href="#relational-database-service-rds">Relational Database Service (RDS)</a>
+
+18. <a href="#aurora">Aurora</a>
+
+19. <a href="#dynamodb">DynamoDB</a>
+
+20. <a href="#redshift">Redshift</a>
+
+
