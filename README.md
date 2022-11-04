@@ -33,3 +33,7 @@ In this 30 Days AWS seiries we learn about AWS Certified Solutions Architect - A
 9. <a href="#elastic-network-interfaces-eni">Elastic Network Interfaces (ENI)</a>
 
 10. <a href="#security-groups">Security Groups</a>
+
+11. <a href="#web-application-firewall-waf">Web Application Firewall (WAF)</a>
+
+12. <a href="#cloudwatch">CloudWatch</a>
