@@ -37,3 +37,7 @@ In this 30 Days AWS seiries we learn about AWS Certified Solutions Architect - A
 11. <a href="#web-application-firewall-waf">Web Application Firewall (WAF)</a>
 
 12. <a href="#cloudwatch">CloudWatch</a>
+  
+13. <a href="#cloudtrail">CloudTrail</a>
+
+14. <a href="#elastic-file-system-efs">Elastic File System (EFS)</a>
