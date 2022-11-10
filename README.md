@@ -66,3 +66,20 @@ In this 30 Days AWS seiries we learn about AWS Certified Solutions Architect - A
 9. <a href="#elastic-network-interfaces-eni">Elastic Network Interfaces (ENI)</a>
 
 10. <a href="#security-groups">Security Groups</a>
+
+28. <a href="#simple-notification-service-sns"> Simple Notification Service (SNS)</a>
+
+29. <a href="#kinesis"> Kinesis </a>
+
+30. <a href="#lambda"> Lambda </a>
+
+31. <a href="#api-gateway"> API Gateway </a>
+
+32. <a href="#cloudformation">CloudFormation </a>
+
+33. <a href="#cloudformation">ElasticBeanstalk</a>
+
+34. <a href="#aws-organizations">AWS Organizations</a>
+
+35. <a href="#miscellaneous">Miscellaneous</a>
+
